@@ -1,8 +1,8 @@
-# First — vanhcutii personal site
+# personal-site-v1 — vanhcutii personal site
 
 Early personal landing page for **Vương Việt Anh** — lock-screen intro, anime aesthetics, music, and interactive widgets. Static HTML/CSS/JS, no build step.
 
-> Historical site (vanhcutii.store era). See also [Portfolio-1](https://github.com/duckzangryy/Portfolio-1) and [ProfileWeb](https://github.com/duckzangryy/ProfileWeb) for later iterations.
+> Historical site (vanhcutii.store era). See also [Portfolio-1](https://github.com/duckzangryy/personal-portfolio) and [ProfileWeb](https://github.com/duckzangryy/profile-web) for later iterations.
 
 ## Features
 
@@ -32,7 +32,7 @@ First/
 ## Run locally
 
 ```bash
-git clone https://github.com/duckzangryy/First.git
+git clone https://github.com/duckzangryy/personal-site-v1.git
 cd First
 # any static server
 npx serve .
